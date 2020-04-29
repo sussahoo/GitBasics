@@ -24,3 +24,4 @@ $ git push -u origin master
 # Get/clone a repository to a local folder
 $ cd folder
 $ git clone remote_repository_URL
+#------------------------------------------------------------------------------
