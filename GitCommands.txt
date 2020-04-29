@@ -11,7 +11,7 @@ $ git commit -m "First commit"
 #repository. To remove this commit and modify the file, use 'git reset --soft
 #HEAD~1' and commit and add the file again.
 
-$ git remote add origin remote repository URL
+$ git remote add origin remote_repository_URL
 # Sets the new remote
 $ git remote -v
 # Verifies the new remote URL
